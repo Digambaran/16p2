@@ -1,0 +1,24 @@
+{
+  "name": "16p2",
+  "type": "package",
+  "blockId": "msVxessV4nYmc5hmiURfO",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_16p2"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "testp4": {
+      "directory": "testp4"
+    },
+    "_ab_thr_pack": {
+      "directory": "_ab_thr_pack"
+    }
+  }
+}
